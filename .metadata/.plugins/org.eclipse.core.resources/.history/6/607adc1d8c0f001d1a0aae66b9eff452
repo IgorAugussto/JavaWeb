@@ -1,0 +1,5 @@
+package com.devsuperior.JavaWeb.entities;
+
+public class User {
+
+}
